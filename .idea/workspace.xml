@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3192a6f7-3173-4a38-8ada-01f36724254d" name="Default Changelist" comment="" />
+    <list default="true" id="3192a6f7-3173-4a38-8ada-01f36724254d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/AppDelegate.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/HomeScreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/HomeScreen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/login.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/login.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1g54WQMQFaqsAKr8XDq2gU0HLUH" />
   <component name="ProjectReloadState">
@@ -25,6 +37,17 @@
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
       <method v="2" />
@@ -41,6 +64,8 @@
       <workItem from="1597391157260" duration="1000" />
       <workItem from="1597391160214" duration="4922000" />
       <workItem from="1597399771041" duration="1048000" />
+      <workItem from="1597409903662" duration="134000" />
+      <workItem from="1597410098063" duration="4523000" />
     </task>
     <servers />
   </component>
@@ -48,30 +73,38 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1878" height="211" key="GridCell.Tab.0.bottom" timestamp="1597400820414">
-      <screen x="0" y="23" width="1920" height="1004" />
+    <state width="1878" height="239" key="GridCell.Tab.0.bottom" timestamp="1597414679302">
+      <screen x="0" y="23" width="1920" height="1006" />
     </state>
     <state width="1878" height="211" key="GridCell.Tab.0.bottom/0.23.1920.1004@0.23.1920.1004" timestamp="1597400820414" />
-    <state width="1878" height="363" key="GridCell.Tab.0.bottom/0.23.1920.1005@0.23.1920.1005" timestamp="1597396108468" />
-    <state width="1878" height="211" key="GridCell.Tab.0.center" timestamp="1597400820413">
-      <screen x="0" y="23" width="1920" height="1004" />
+    <state width="1878" height="239" key="GridCell.Tab.0.bottom/0.23.1920.1005@0.23.1920.1005" timestamp="1597413800127" />
+    <state width="1878" height="239" key="GridCell.Tab.0.bottom/0.23.1920.1006@0.23.1920.1006" timestamp="1597414679302" />
+    <state width="1878" height="239" key="GridCell.Tab.0.center" timestamp="1597414679302">
+      <screen x="0" y="23" width="1920" height="1006" />
     </state>
     <state width="1878" height="211" key="GridCell.Tab.0.center/0.23.1920.1004@0.23.1920.1004" timestamp="1597400820413" />
-    <state width="1878" height="363" key="GridCell.Tab.0.center/0.23.1920.1005@0.23.1920.1005" timestamp="1597396108467" />
-    <state width="1878" height="211" key="GridCell.Tab.0.left" timestamp="1597400820413">
-      <screen x="0" y="23" width="1920" height="1004" />
+    <state width="1878" height="239" key="GridCell.Tab.0.center/0.23.1920.1005@0.23.1920.1005" timestamp="1597413800126" />
+    <state width="1878" height="239" key="GridCell.Tab.0.center/0.23.1920.1006@0.23.1920.1006" timestamp="1597414679302" />
+    <state width="1878" height="239" key="GridCell.Tab.0.left" timestamp="1597414679301">
+      <screen x="0" y="23" width="1920" height="1006" />
     </state>
     <state width="1878" height="211" key="GridCell.Tab.0.left/0.23.1920.1004@0.23.1920.1004" timestamp="1597400820413" />
-    <state width="1878" height="363" key="GridCell.Tab.0.left/0.23.1920.1005@0.23.1920.1005" timestamp="1597396108467" />
-    <state width="1878" height="211" key="GridCell.Tab.0.right" timestamp="1597400820414">
-      <screen x="0" y="23" width="1920" height="1004" />
+    <state width="1878" height="239" key="GridCell.Tab.0.left/0.23.1920.1005@0.23.1920.1005" timestamp="1597413800125" />
+    <state width="1878" height="239" key="GridCell.Tab.0.left/0.23.1920.1006@0.23.1920.1006" timestamp="1597414679301" />
+    <state width="1878" height="239" key="GridCell.Tab.0.right" timestamp="1597414679302">
+      <screen x="0" y="23" width="1920" height="1006" />
     </state>
     <state width="1878" height="211" key="GridCell.Tab.0.right/0.23.1920.1004@0.23.1920.1004" timestamp="1597400820414" />
-    <state width="1878" height="363" key="GridCell.Tab.0.right/0.23.1920.1005@0.23.1920.1005" timestamp="1597396108468" />
+    <state width="1878" height="239" key="GridCell.Tab.0.right/0.23.1920.1005@0.23.1920.1005" timestamp="1597413800126" />
+    <state width="1878" height="239" key="GridCell.Tab.0.right/0.23.1920.1006@0.23.1920.1006" timestamp="1597414679302" />
     <state x="967" y="280" width="586" height="490" key="find.popup" timestamp="1597391316819">
       <screen x="0" y="23" width="1920" height="1004" />
     </state>
     <state x="967" y="280" width="586" height="490" key="find.popup/0.23.1920.1004@0.23.1920.1004" timestamp="1597391316819" />
+    <state x="625" y="245" width="670" height="676" key="search.everywhere.popup" timestamp="1597415419049">
+      <screen x="0" y="23" width="1920" height="1006" />
+    </state>
+    <state x="625" y="245" width="670" height="676" key="search.everywhere.popup/0.23.1920.1006@0.23.1920.1006" timestamp="1597415419049" />
     <state x="859" y="372" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1597394642798">
       <screen x="0" y="23" width="1920" height="1004" />
     </state>

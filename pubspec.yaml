@@ -38,7 +38,7 @@ dependencies:
 #  wifi_info_plugin: ^1.0.6
   flutter_bluetooth_serial: ^0.2.2
   app_settings: 3.0.1
-  google_maps_flutter: ^0.5.28+1
+  google_maps_flutter: ^0.5.30
   location: ^2.5.0
   flutter_speed_dial: ^1.2.5
   intl: ^0.16.1

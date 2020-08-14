@@ -1,3 +1,4 @@
+import 'package:lavona/adminPass.dart';
 import 'package:lavona/providers/auth.dart';
 import 'package:lavona/screens/login.dart';
 import 'package:flutter/material.dart';
