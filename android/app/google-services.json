@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "613445250356",
+    "firebase_url": "https://lavona-flutter.firebaseio.com",
+    "project_id": "lavona-flutter",
+    "storage_bucket": "lavona-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613445250356:android:002314a8aee051d3578961",
+        "android_client_info": {
+          "package_name": "com.au.devolpment.lavona"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613445250356-hjafdujnb16hndjnsr77r9ddaglrnqfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEmRhFCaWK1n7r-IPdC725BGEzJsTtmRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613445250356-hjafdujnb16hndjnsr77r9ddaglrnqfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
